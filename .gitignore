@@ -1,0 +1,15 @@
+# Obsidian — локальное состояние, не нужно в гит
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/appearance.json
+
+# системные
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# временные
+*.tmp
+*.swp
+*~
